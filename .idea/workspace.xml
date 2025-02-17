@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4d63d2d-dfb7-4d80-a98b-15d7c0b26306" name="Changes" comment="Day 33 - practicing using JSON data from API responses and python requests status handling">
+    <list default="true" id="d4d63d2d-dfb7-4d80-a98b-15d7c0b26306" name="Changes" comment="Day 33 - more practice using JSON response data and python requests this time in a kanye quotes python canvas application">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_work/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_work/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_work/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +97,22 @@
       <option name="project" value="LOCAL" />
       <updated>1739820655616</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 33 - more practice using JSON response data and python requests this time in a kanye quotes python canvas application">
+      <option name="closed" value="true" />
+      <created>1739822321853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739822321853</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 33 - repo created" />
     <MESSAGE value="Day 33 - learning to use python API requests" />
     <MESSAGE value="Day 33 - practicing using JSON data from API responses and python requests status handling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 33 - practicing using JSON data from API responses and python requests status handling" />
+    <MESSAGE value="Day 33 - more practice using JSON response data and python requests this time in a kanye quotes python canvas application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 33 - more practice using JSON response data and python requests this time in a kanye quotes python canvas application" />
   </component>
 </project>
