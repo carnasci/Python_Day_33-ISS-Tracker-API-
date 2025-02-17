@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4d63d2d-dfb7-4d80-a98b-15d7c0b26306" name="Changes" comment="Day 33 - more practice using JSON response data and python requests this time in a kanye quotes python canvas application">
+    <list default="true" id="d4d63d2d-dfb7-4d80-a98b-15d7c0b26306" name="Changes" comment="Day 33 - more practice using JSON response data and python requests this time with adding request parameters and manipulating response data with string splitting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class_work/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_work/main.py" afterDir="false" />
     </list>
@@ -49,7 +49,8 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/cenma/PycharmProjects/100-Days-Of-Python/Monday_Motivation_Quotes(Day+32)/Birthday Wisher (Day 32) start"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -105,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739822321853</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Day 33 - more practice using JSON response data and python requests this time with adding request parameters and manipulating response data with string splitting">
+      <option name="closed" value="true" />
+      <created>1739824257930</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739824257930</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +122,7 @@
     <MESSAGE value="Day 33 - learning to use python API requests" />
     <MESSAGE value="Day 33 - practicing using JSON data from API responses and python requests status handling" />
     <MESSAGE value="Day 33 - more practice using JSON response data and python requests this time in a kanye quotes python canvas application" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 33 - more practice using JSON response data and python requests this time in a kanye quotes python canvas application" />
+    <MESSAGE value="Day 33 - more practice using JSON response data and python requests this time with adding request parameters and manipulating response data with string splitting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 33 - more practice using JSON response data and python requests this time with adding request parameters and manipulating response data with string splitting" />
   </component>
 </project>
